@@ -1,0 +1,5 @@
+APScheduler==3.11.3
+pyjokes==0.8.3
+python-telegram-bot==22.8
+quote==3.0
+randfacts==0.24.4
